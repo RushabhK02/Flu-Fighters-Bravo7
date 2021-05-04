@@ -16,7 +16,7 @@ An endless runner concept where the objective of the game is to stay alive as lo
 # Game Design Document:
 The GDD document in the repo is our detailed game design document.  
 File name:  Flu Fighters GDD Final.pdf  
-[a relative link](Flu Fighters GDD Final.pdf)  
+https://github.com/RushabhK02/Bravo7/blob/master/Flu%20Fighters%20GDD%20Final.pdf  
 
 # Youtube Link:
 https://www.youtube.com/watch?v=-5MLBuf4fNs  
